@@ -181,22 +181,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Fontes: **[Baloo 2](https://fonts.google.com/specimen/Baloo+2)** | **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
----
-
-<a name="-autor"></a>
-
-## 🦸‍♂️ **Autor**
-
-<p>
- <img src="https://avatars.githubusercontent.com/u/10993285?v=4" width="150px;" alt="glaubermatos"/>
- <br />
- <sub><strong>🌟 Glauber de Oliveira Matos 🌟</strong></sub>
-</p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glaubermatos/)](https://www.linkedin.com/in/glaubermatos/)
-
-<a name="-user-content--licença"></a>
-
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
