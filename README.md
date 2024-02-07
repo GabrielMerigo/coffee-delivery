@@ -116,16 +116,6 @@ Na tela de pedido confirmado temos 2 tipos de animações:
 
 https://github.com/glaubermatos/coffee-delivery/assets/10993285/0efdbedf-e082-4b02-aad3-ec30411dd930
 
-<a name="-demonstracao"></a>
-
-## 🕹️ Demonstração
-
-<!-- <a align="center" href="https://www.linkedin.com/posts/glaubermatos_desenvolvimentoweb-springboot-nextjs-activity-6905992105182015488-CfRu">
-    <img alt="happy-web" src="https://img.shields.io/static/v1?label=post&message=algalog-web&color=F1972C&style=flat&logo=linkedin">
-</a> -->
-
-[![Vídeo de demonstração do app coffee-delivery](http://img.youtube.com/vi/n8nc5JDuIfc/0.jpg)](https://youtu.be/n8nc5JDuIfc)
-
 ---
 
 ## 🚀 Como executar o projeto
