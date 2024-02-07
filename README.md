@@ -184,5 +184,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito com :satisfied: por Glauber de Oliveira Matos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/glaubermatos/)
